@@ -22,4 +22,4 @@ Uses MySql to organize and order a companies departments, roles, and employees.
 
 The following images show the web application's appearance and functionality:
 
-![This is a screenshot of the Employee Tracker application!] (./images/Employee Tracker.png)
+![This is a screenshot of the Employee Tracker application!] (./images/employee-tracker.png)
