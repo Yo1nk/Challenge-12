@@ -20,10 +20,10 @@ VALUES
 INSERT INTO employee(id, first_name, last_name, role_id, manager_id)
 VALUES
 (1, "Jon", "Snow", 1, 1),
-(2, "Daenerys", "Targaryen", 2, 2),
-(3, "Sansa", "Stark", 3, 3),
-(4, "Tyrion", "Lannister", 4, 1),
-(5, "Theon", "Greyjoy", 5, 2),
-(6, "Sandor", "Clegane", 6, 3),
-(7, "Arya", "Stark", 7, 2),
-(8, "Khal", "Drogo", 3, 3);
+(2, "Mike", "Chan", 2, 2),
+(3, "Ashley", "Rodriguez", 3, 3),
+(4, "Kevin", "Tupik", 4, 1),
+(5, "Kunal", "Singh", 5, 2),
+(6, "Malia", "Brown", 6, 3),
+(7, "Sarah", "Lourd", 7, 2),
+(8, "Tom", "Allen", 3, 3);
