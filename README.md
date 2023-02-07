@@ -17,3 +17,9 @@ Uses MySql to organize and order a companies departments, roles, and employees.
 ## Usage
 1. Start the application by running "node index.js"
 2. Use arrow keys & enter key to select the options for editing your company database.
+
+## Mock-up
+
+The following images show the web application's appearance and functionality:
+
+![This is a screenshot of the Employee Tracker application!] (./images/Employee Tracker.png)
